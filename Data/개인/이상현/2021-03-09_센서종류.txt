@@ -1,0 +1,9 @@
+https://www.devicemart.co.kr/goods/view?no=1290797 - 디지털 앰프 모듈
+https://www.devicemart.co.kr/goods/view?no=1326916 - 녹음모듈
+https://www.devicemart.co.kr/goods/view?no=10918253 - 비접촉 온도센서 모듈
+https://www.devicemart.co.kr/goods/view?no=1384579 - 디스플레이 모듈 블루
+https://www.devicemart.co.kr/goods/view?no=1327441 - 적외선 장애물회피 센서 모듈
+아트메가128
+
+// https://m.blog.naver.com/PostView.nhn?blogId=eduino&logNo=221091706403&proxyReferer=https:%2F%2Fwww.google.com%2F(마스크 음성안내)
+// https://m.blog.naver.com/PostView.nhn?blogId=sindh718&logNo=221106601958&proxyReferer=https:%2F%2Fwww.google.com%2F(적외선 열 감지)

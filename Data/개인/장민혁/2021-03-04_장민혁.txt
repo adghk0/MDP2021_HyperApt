@@ -1,0 +1,14 @@
+빗물 감지 창문 - 
+빗물 감지 센서의 감지판에서 빗물을 감지하면 (스텝 or 서보모터에 랙앤피니언을 달음)모터가 돌아서 창문이 닫힘
+( 서보모터에 3D 프린터로 랙앤피니언을 출력하여 미닫이식 창문으로 만든다 // 참고영상 : https://www.youtube.com/watch?v=6z4yEg9Hv3k )
+( 창문 틀도 3D 프린터로 만들게 될 경우 참고 : http://djjylab.com/bbs/board.php?bo_table=portfolio&wr_id=15 )
+
+
+자동 커튼 - 온습도센서 & 빛 감지 센서가 감지를 하여 신호가 잡히면 전원이 흘러 스텝모터가 돈다.
+(스텝 모터를 통해서 커튼이 위로 걷히거나, 내려진다.)
+
+
+빗물감지센서 - https://www.devicemart.co.kr/goods/view?no=1327430
+360도 서보모터 - http://blog.naver.com/PostView.nhn?blogId=roboholic84&logNo=221055851557
+
+이외 부품 찾는 사이트 (에듀이노) - http://eduino.kr/index.html
